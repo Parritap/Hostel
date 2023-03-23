@@ -4,7 +4,7 @@ public class Usuario {
     private String nombre;
     private String id;
     private Reserva reserva;
-
+    private String a;
     public String getNombre() {
         return nombre;
     }
